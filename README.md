@@ -1,6 +1,6 @@
 # 🚗 Dear Carmate Backend
 * Team3 김수민
-##### 🔗 배포링크(홈페이지) : https://example.com
+##### 🔗 배포링크(홈페이지) : https://dear-carmate-fe.onrender.com/
 ####  🔗 [Swagger 문서](https://nb02-dear-carmate-be03.onrender.com/api-docs/) 
 ####  🔗 [Team wiki](https://github.com/nb02-DearCarmate-team03/Dear_Carmate_be/wiki)
 ## 프로젝트 소개
